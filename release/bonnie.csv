@@ -1,0 +1,9 @@
+,,Sequential,Output,,,,,Sequential,Input,,,Random,,Sequential,Create,,,,,Random,Create,
+,,Per Chr, ,Block, ,Rewrite, ,Per Chr, ,Block, ,Seeks, ,Create, ,Read, ,Delete, ,Create, ,Read, ,Delete
+Machine,Size,K/sec,%CP,K/sec,%CP,K/sec,%CP,K/sec,%CP,K/sec,%CP,/sec,%CP,files,/sec,%CP,/sec,%CP,/sec,%CP,/sec,%CP,/sec,%CP,/sec,%CP
+
+aloha_32go,3520M,13944,97,59224,27,43610,19,15286,97,151267,58,4427.6,115,,,,,,,,,,,,,
+aloha_32go,3520M,13878,97,45544,22,34814,15,15465,97,160116,57,4697.5,105,,,,,,,,,,,,,
+aloha_32go,3520M,13684,96,45139,22,38392,17,15490,97,185511,56,4796.6,119,,,,,,,,,,,,,
+aloha_32go,3520M,14047,98,48981,23,40743,18,15423,97,208305,59,4961.8,121,,,,,,,,,,,,,
+aloha_32go,3520M,14069,98,54434,25,40208,18,15446,97,201666,59,5374.6,121,,,,,,,,,,,,,
